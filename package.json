@@ -1,0 +1,16 @@
+{
+  "name": "insert-my-ip",
+  "main": "./lib/insert-my-ip",
+  "version": "0.1.0",
+  "description": "For inserting your ip address",
+  "Author": "Chris Farrell",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/insert-my-ip",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
