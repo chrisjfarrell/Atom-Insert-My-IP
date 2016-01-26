@@ -1,7 +1,7 @@
 {
   "name": "insert-my-ip",
   "main": "./lib/insert-my-ip",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "For inserting your ip address",
   "Author": "Chris Farrell",
   "keywords": [],
